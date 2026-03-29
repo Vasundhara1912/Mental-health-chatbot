@@ -1,4 +1,4 @@
-# 🧠 Mental Health Companion Chatbot
+# Mental Health Companion Chatbot
 
 A full-stack AI chatbot that detects student mood through sentiment analysis and responds with empathy, motivation, and relaxation tips.
 
